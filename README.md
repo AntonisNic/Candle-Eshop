@@ -11,3 +11,5 @@ Used in this project:
 -Javascript
 -Bootstrap
 
+Video of the webiste : https://drive.google.com/file/d/1z73wR4vhG3FERQNY_FGB6zu_VAWsIo5C/view?usp=sharing
+
