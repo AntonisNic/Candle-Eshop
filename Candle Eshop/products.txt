@@ -1,0 +1,16 @@
+ECE318 Candle,Vanilla,100,Red,200,16,300
+ECE318 Candle,Vanilla,100,Purple,201,16,301
+ECE318 Candle,Vanilla,100,Light-Blue,202,16,302
+ECE318 Candle,Vanilla,100,Green,203,16,303
+ECE318 Candle,Caramel,101,Red,200,12,304
+ECE318 Candle,Caramel,101,Purple,201,12,305
+ECE318 Candle,Caramel,101,Light-Blue,202,12,306
+ECE318 Candle,Caramel,101,Green,203,12,307
+ECE318 Candle,Blueberries,102,Red,200,10,308
+ECE318 Candle,Blueberries,102,Purple,201,10,309
+ECE318 Candle,Blueberries,102,Light-Blue,202,10,310
+ECE318 Candle,Blueberries,102,Green,203,10,311
+ECE318 Candle,Coffee,103,Red,200,14,312
+ECE318 Candle,Coffee,103,Purple,201,14,313
+ECE318 Candle,Coffee,103,Light-Blue,202,14,314
+ECE318 Candle,Coffee,103,Green,203,14,315
